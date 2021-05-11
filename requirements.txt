@@ -1,0 +1,16 @@
+pathlib
+pyaes
+colorama
+requests
+bs4
+beautifulsoup4
+certifi
+chardet
+idna
+pyasn1
+soupsieve
+urllib3
+pytz
+telethon
+rsa
+async_generator
