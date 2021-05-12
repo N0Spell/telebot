@@ -39,9 +39,9 @@ print ("powred by : Abdllrahman yasser")
 if not os.path.exists('session'):
     os.makedirs('session')
 
-api_id = '2192036'
-api_hash = '3b86a67fc4e14bd9dcfc2f593e75c841'
-phone_number = '+212636627429'
+api_id = '2866974'
+api_hash = 'a6686e1266ecff92098691ddfcb6d02f'
+phone_number = '+917858830143'
 
 client = TelegramClient('session/'+phone_number,api_id,api_hash)
 client.connect()
